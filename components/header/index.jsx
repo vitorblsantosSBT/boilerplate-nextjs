@@ -8,5 +8,4 @@ const Header = () => (
     <Div>teste</Div>
   </Container>
 )
-
 export default Header
