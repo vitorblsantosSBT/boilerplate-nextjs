@@ -34,7 +34,7 @@
     }
   },
   "lint-staged": {
-    "*.{js,jsx}": "eslint"
+    "*.jsx": "eslint"
   },
   "scripts": {
     "build": "next build",
