@@ -1,7 +1,9 @@
-import React from 'react'
+const React = require('react')
 
-const Index = () => (
-  <div>teste</div>
-)
+function Home () {
+  return (
+    <div>Home</div>
+  )
+}
 
-export default Index
+module.exports = Home
