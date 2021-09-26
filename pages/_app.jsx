@@ -2,7 +2,7 @@ import React from 'react'
 import Head from 'next/head'
 import { func, object } from 'prop-types'
 
-function App ({ Component, pageProps }) {
+const App = ({ Component, pageProps }) => {
   return (
     <>
       <Head>

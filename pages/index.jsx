@@ -1,9 +1,9 @@
-const React = require('react')
+import React from ('react')
 
-function Home () {
+const Home = () => {
   return (
     <div>Home</div>
   )
 }
 
-module.exports = Home
+export default Home

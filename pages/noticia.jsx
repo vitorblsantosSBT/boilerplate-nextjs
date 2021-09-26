@@ -1,8 +1,10 @@
 import React from 'react'
 import Header from '../components/header'
 
-export default function Noticia () {
+const Noticia = () => {
   return (
     <Header />
   )
 }
+
+export default Noticia
